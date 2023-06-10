@@ -8,7 +8,7 @@
 
 一般选tls长期维护的版本
 
-<img src="windows配置vckpg + cmake + vscode.assets/image-20230611070923365.png" alt="image-20230611070923365" style="zoom:50%;" />
+<img src="assets/image-20230611070923365.png" alt="image-20230611070923365" style="zoom:50%;" />
 
 然后无脑下一步。
 
@@ -66,7 +66,7 @@ vcpkg install <packages name>
 
 写好cmake后先命令**快速入门**
 
-![image-20230611073345038](windows配置vckpg + cmake + vscode.assets/image-20230611073345038.png)
+![image-20230611073345038](assets/image-20230611073345038.png)
 
 CMakelists.txt添加下列指令
 
